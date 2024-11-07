@@ -1,0 +1,3 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/N0TAW00D/MedAsk-Frontend.git
